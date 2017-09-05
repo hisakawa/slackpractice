@@ -1,1 +1,8 @@
 # slackpractice
+言語はPython3を使用しています。
+
+slackbotのフォルダがBotUserを使用しており、webhook.pyがIncomingwebhooksを使用しています。
+
+slackbotではpythonのslackbotライブラリをインストールして使用しました。
+
+Incomingwebhooksのwebhook.pyではslackwebライブラリをインストールして使用しています。
